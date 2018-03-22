@@ -1,0 +1,377 @@
+
+.BODY_MAIN
+{
+    margin:0px;
+}
+
+A
+{
+    font-family: Arial;
+    text-decoration: none;
+    color:Black;
+}
+
+SELECT
+{
+    font-family: Arial; 
+    font-size: 12px; 
+} 
+
+option
+{
+    font-family: Arial; 
+    font-size: 25px; 
+}
+
+.topTable
+{
+    background-color:SteelBlue;
+}
+
+.fontTitleTop
+{
+    font-family:Arial;
+    font-size:20px;
+    color:White;
+    
+}
+
+.fontTitleTop2
+{
+    font-family:Arial;
+    font-size:13px;
+    color:White;
+    
+}
+
+.mainmenuoption
+{
+    font-family:Arial;
+    font-weight:bold;
+    font-size:16px;
+    color:white;
+    background-image:url('../images/bg_bar_orange.gif');
+}
+
+.font8
+{
+    font-family:Arial;
+    font-weight:normal;
+    font-size:8px;
+}
+.font9
+{
+    font-family:Arial;
+    font-weight:normal;
+    font-size:9px;
+}
+.font10
+{
+    font-family:Arial;
+    font-weight:normal;
+    font-size:10px;
+}
+.font11
+{
+    font-family:Arial;
+    font-weight:normal;
+    font-size:11px;
+}
+.font12
+{
+    font-family:Arial;
+    font-weight:normal;
+    font-size:12px;
+}
+.font13
+{
+    font-family:Arial;
+    font-weight:normal;
+    font-size:13px;
+}
+.font15
+{
+    font-family:Arial;
+    font-weight:normal;
+    font-size:15px;
+}
+.font20
+{
+    font-family:Arial;
+    font-weight:normal;
+    font-size:20px;
+}
+
+
+.wopenTitle
+{
+    font-family:Arial;
+    font-weight:bold;
+    font-size:16px;
+    color:white;
+}
+
+.button
+{
+    border-style:solid;
+    border-color:Silver;
+    background-color:Gray;
+    color:White;
+    cursor:pointer;
+}
+
+.textfield
+{
+    border:1 solid Silver;
+    font-family:Arial;
+    font-size:15px;
+    color:Black;
+    background-color:#ffffee;
+}
+
+.textfieldreadonly
+{
+    border:1 solid Silver;
+    font-family:Arial;
+    font-size:15px;
+    color:Black;
+    background-color:Gainsboro;
+}
+
+.textfieldNShops
+{
+    border:1 solid Silver;
+    font-family:Arial;
+    font-size:15px;
+    color:Black;
+    background-color:#C0FFC0;
+}
+
+.textfieldPercentCompl
+{
+    border:1 solid Silver;
+    font-family:Arial;
+    font-size:15px;
+    color:Black;
+    background-color:#ffeeff;
+}
+
+.fieldheader
+{
+    padding-left:10px;
+    font-family:Arial;
+    font-size:14px;
+    font-weight:bold;
+    color:Black;
+    background-image:url('../images/Grad3.gif');
+    background-repeat:no-repeat;
+    
+}
+
+
+.gridlefttitle
+{
+    border-top:1 solid gray;
+    border-left:1 solid gray;
+}
+
+.gridlefthalfrow
+{
+    border-left:1 solid gray;
+}
+
+.gridgroup0title
+{
+    text-align:center;
+    font-family:Arial;
+    font-size:10px;
+    font-weight:bold;
+    color:Black;
+    border-left:1 solid gray;
+    border-top:1 solid gray;
+}
+
+.gridmonthtitle
+{
+    text-align:center;
+    font-family:Arial;
+    font-size:18px;
+    font-weight:bold;
+    color:Black;
+    border-left:1 solid gray;
+    border-top:1 solid gray;
+}
+
+.gridmonthtitlesmall
+{
+    text-align:center;
+    font-family:Arial;
+    font-size:12px;
+    font-weight:bold;
+    background-color:white;
+    color:black;
+    border-left:1 solid gray;
+    border-top:1 solid gray;
+}
+
+.gridhalf1title
+{
+    text-align:center;
+    font-family:Arial;
+    font-size:13px;
+    font-weight:bold;
+    color:Black;
+    border-left:1 solid gray;
+}
+
+.gridhalf2title
+{
+    text-align:center;
+    font-family:Arial;
+    font-size:13px;
+    font-weight:bold;
+    color:Black;
+}
+
+.gridtypetitle
+{
+    padding-left:10px;
+    text-align:left;
+    font-family:Arial;
+    font-size:13px;
+    font-weight:bold;
+    color:Black;
+    border-left:1 solid gray;
+    border-top:1 solid gray;
+}
+
+.gridtypetitleNoBold
+{
+    padding-left:10px;
+    padding-right:5px;
+    text-align:right;
+    font-family:Arial;
+    font-size:13px;
+    color:Black;
+    border-left:1 solid gray;
+    border-top:1 solid gray;
+}
+
+.Clk
+{
+    font-size:11px;
+    font-family:Arial;
+    cursor: pointer;
+    border-left:1 solid gray;
+    border-top:1 solid gray;
+    border-right:0 solid silver;
+    border-bottom:0 solid silver;
+}
+
+.cell
+{
+    font-size:11px;
+    font-family:Arial;
+    border-left:1 solid gray;
+    border-top:1 solid gray;
+    border-right:0 solid silver;
+    border-bottom:0 solid silver;
+    text-align:center;
+}
+
+.cellhover
+{
+    font-size:9px;
+    font-family:Arial;
+    cursor: pointer;
+    border-left:1 solid black;
+    border-top:1 solid black;
+    border-right:1 solid black;
+    border-bottom:1 solid black;
+}
+
+.celltopborder
+{
+    border-top:1 solid gray;
+}
+
+
+.PEST_SELEC{
+	background-color:white;
+	border-top:1 solid black;
+	border-left:1 solid black;
+	border-right:1 solid black;
+	border-bottom:0;
+	text-align:center;
+	font-family:Arial;
+	font-size:11px;
+}
+
+.PEST_NOSELEC{
+	background-color:Gray;
+	border-top:1 solid black;
+	border-left:1 solid black;
+	border-right:1 solid black;
+	border-bottom:1 solid black;
+	text-align:center;
+	cursor:hand;
+	font-family:Arial;
+	font-size:11px;
+}
+
+.PEST_ESPACIO{
+	
+	border-bottom:1 solid black;
+	font-family:Arial;
+	font-size:11px;
+}
+
+.listColumn{
+	font-family:Arial; 
+	font-size:11px;
+	color:black;
+}
+
+.listNavON{
+	font-family:Arial;
+	font-size:11px;
+	color:black;
+	font-weight: bold;
+	background-color:gainsboro;
+	border:1 solid gray;
+	padding-left:4px;
+	padding-right:4px;
+	width:60px;
+}
+
+.listNavOFF{
+	font-family:Arial;
+	font-size:11px;
+	color:black;
+	border:1 solid gray;
+	padding-left:4px;
+	padding-right:4px;
+	width:60px;
+}
+
+.filterTopBar
+{
+    background-color:gray;
+    font-family:Arial;
+    font-size:13px;
+    color:White;
+    
+}
+
+.CalDiaLink {
+	font-family:Arial;
+	font-size:9px;
+	color:black;
+	text-decoration:underline;
+}
+
+.CalDiaNoLink {
+	font-family:Arial;
+	font-size:9px;
+	color:black;
+}
